@@ -146,3 +146,7 @@ footer {
     padding: 1rem;
     border-top: 2rem solid #333;
 }
+
+h4 span {
+    padding: 0 0.5rem;
+}

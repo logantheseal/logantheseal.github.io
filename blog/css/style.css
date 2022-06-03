@@ -87,6 +87,7 @@ h1 {
     font-size: 3rem;
     letter-spacing: 0.25rem;
     transform: rotate(-5deg);
+    text-align: center;
 }
 
 .highlight {
@@ -257,8 +258,8 @@ footer a {
 footer a:focus,
 footer a:hover {
     color: #A66C4B;
-    background-color: #732C2C;
     border-radius: 0.2rem;
+    text-transform: uppercase;
 }
 
 
